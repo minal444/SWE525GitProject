@@ -1,0 +1,78 @@
+[33mcommit c73e926052c2dcdda85297ac530920a955b51311[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sun Oct 9 16:20:27 2016 -0700
+
+    add exe3 commit
+
+[33mcommit c2653449e411fac7f696d52962c46247bef83836[m
+Merge: 390dd17 ea65906
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sun Oct 9 16:18:46 2016 -0700
+
+    Merge branch 'master' of https://github.com/minal444/SWE525GitProject
+
+[33mcommit 390dd17a05d94c547c31e14a1c742c35e8da5162[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sun Oct 9 16:15:49 2016 -0700
+
+    add exe3 commit
+
+[33mcommit ea6590620db8b86e1c3370818894f958f260fe21[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sun Oct 9 10:53:28 2016 -0700
+
+    will conflict
+
+[33mcommit 253cfea6c6ea221ff3ca8d4262c392b4811b5d89[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sun Oct 9 10:50:25 2016 -0700
+
+    will conflict 2
+
+[33mcommit 9d79f604c6bf79f1f113edf5a792e8da7d8aeed3[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sun Oct 9 10:37:39 2016 -0700
+
+    will create conflict 1
+
+[33mcommit 6a7e954e74b6a8a4ae3683f581d58ad3736ae7b1[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sat Oct 8 16:59:56 2016 -0700
+
+    commiting new changes
+
+[33mcommit f84aa706bdcd42ef4c6f648ce5778dbcb304c151[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sat Oct 8 16:54:54 2016 -0700
+
+    commiting changes
+
+[33mcommit f729ef16820d9727079b886369bc6feec2d6c603[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sat Oct 8 15:52:33 2016 -0700
+
+    new feaature in branch
+
+[33mcommit ab24387e6559fdf1f5c40a92005cd9d52fd184d2[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sat Oct 8 15:46:57 2016 -0700
+
+    new feature
+
+[33mcommit f9030eddd42406f859f63fcdc1c44ba10e19ca63[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sat Oct 8 14:51:34 2016 -0700
+
+    some changes
+
+[33mcommit 9e86a9a94c7cddf603300d8ec1fc641d666fc8f8[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sat Oct 8 14:16:48 2016 -0700
+
+    This is a test for the new remote origin
+
+[33mcommit fc714bc706bd96a67ad4e605186dc4203211ed17[m
+Author: minalpatel <minalpatel1711@gmail.com>
+Date:   Sat Oct 8 12:01:54 2016 -0700
+
+    More changes - now correct
